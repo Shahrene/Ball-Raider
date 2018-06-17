@@ -3,6 +3,14 @@
   margin: 0;
 }
 
+h1 {
+  font-family: Tahoma;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
 canvas {
   background: #eee;
   display: block;
